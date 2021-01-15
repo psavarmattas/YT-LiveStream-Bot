@@ -22,7 +22,7 @@ _`If you want to develop/open the source code`_
 
 1. Python Interpreter (Like [PyCharm](https://www.jetbrains.com/pycharm/))
 2. Python Environment (Like [Anaconda](https://www.anaconda.com/products/individual))
-3.  This [git repo](https://github.com/psavarmattas/YT-Livestream-Botter.git)
+3.  This [git repo](https://github.com/psavarmattas/YT-Livestream-Bot.git)
 4. Bellow mentioned python packages:
 
     -> [Request](https://pypi.org/project/requests/)

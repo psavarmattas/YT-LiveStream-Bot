@@ -28,7 +28,7 @@ intro = """
 ███████║   ██║   ██║  ██║███████╗██║  ██║██║ ╚═╝ ██║      ██████╔╝╚██████╔╝   ██║      ██║   ███████╗██║  ██║
 ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝      ╚═════╝  ╚═════╝    ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝
 
-https://github/psavarmattas/YT-Livestream-Botter
+https://github/psavarmattas/YT-Livestream-Bot
 """
 
 print(intro)
